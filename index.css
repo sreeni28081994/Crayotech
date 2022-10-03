@@ -52,6 +52,8 @@ a {
 .ul {
   display: flex;
   list-style-type: none;
+    padding: 16px;
+
 }
 
 .mainimg {
