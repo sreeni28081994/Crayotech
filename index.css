@@ -37,7 +37,6 @@
 .button:hover {
   background-color: white;
   color: rgb(113, 184, 219);
-  z-index: 1;
 }
 
 a {
@@ -52,7 +51,6 @@ a {
 .ul {
   display: flex;
   list-style-type: none;
-    padding: 16px;
 
 }
 
