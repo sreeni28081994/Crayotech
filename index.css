@@ -222,3 +222,7 @@ i {
 .sec10 {
   padding-left: 0%;
 }
+html{
+  overflow-x: hidden;
+}
+
